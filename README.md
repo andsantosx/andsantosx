@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Banner Anderson Santos" />
+  <img src="./banner.gif" width="100%" alt="Banner Anderson Santos" />
 
   <h1>🚀 Anderson Santos</h1>
   <h3>Software Engineering | Full Stack Developer</h3>
