@@ -56,21 +56,14 @@ Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistema
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&count_private=true" alt="Estatísticas de Anderson" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas de Anderson" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 🌟 Destaques de Projetos
 
-- ⚡ **[service-scheduling-system](https://github.com/andsantosx/service-scheduling-system)**: Sistema robusto de gestão de agendamentos.
+- ⚡ **[order-api](https://github.com/andsantosx/order-api)**: API robusta para gerenciamento de pedidos com TypeScript e boas práticas.
 - ⚙️ **[fast-api](https://github.com/andsantosx/fast-api)**: Estrutura de APIs assíncronas de alta performance.
 - 📦 **[spring-boot-inventory-management](https://github.com/andsantosx/spring-boot-inventory-management)**: Gerenciamento de estoque com foco em escalabilidade.
-
----
-
-<div align="center">
-  <p>Vamos nos conectar? 🤝</p>
-  <a href="https://www.linkedin.com/in/andsantoss">LinkedIn</a> • <a href="mailto:contato@andsantos.dev">Email</a>
-</div>
