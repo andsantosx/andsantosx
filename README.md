@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./banner.gif" width="100%" alt="Banner Anderson Santos" />
 
-  <h1>🚀 Anderson Santos</h1>
   <h3>Software Engineering | Full Stack Developer</h3>
 
   <p align="center">
@@ -55,8 +54,8 @@ Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistema
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas de Anderson" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://andsantosxx.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Estatísticas de Anderson" />
+  <img src="https://andsantosxx.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide_border=true&hide=html,css&count_private=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
