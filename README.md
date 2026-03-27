@@ -1,7 +1,11 @@
 <div align="center">
   <img src="./banner.gif" width="100%" alt="Banner Anderson Santos" />
 
-  <h3>Software Engineering | Full Stack Developer</h3>
+  <h3>Software Engineer | Solutions Architect</h3>
+
+  <p align="center">
+    Projetando e desenvolvendo ecossistemas de software robustos, escaláveis e de alta performance.<br/>Transformando regras de negócio complexas em soluções tecnológicas de alto impacto.
+  </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/andsantoss">
@@ -15,17 +19,20 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Perfil Profissional
 
-Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistemas escaláveis e de alta performance, com sólida experiência no desenvolvimento de produtos complexos para o setor de **Saúde (Healthcare)**. Minha atuação foca em entregar soluções que combinam arquiteturas de backend robustas com interfaces de usuário intuitivas e modernas.
+**Engenheiro de Software e Arquiteto de Soluções** com profunda expertise no ciclo completo de engenharia e ciclo de vida de aplicações. Possuo sólida experiência no rigoroso setor de **Saúde Digital (Healthcare Tech)**, com histórico comprovado na idealização e sustentação de sistemas críticos que demandam alta consistência de dados, tolerância a falhas e extrema segurança operacional.
 
-- 🏥 **Especialista em Healthcare**: Desenvolvimento de sistemas de gestão clínica, agendamentos inteligentes e prontuários eletrônicos escaláveis.
-- 🏗️ **Arquitetura & Backend**: Domínio em **NestJS**, **FastAPI** e **Microserviços**, garantindo alta disponibilidade e segurança de dados.
-- 🎨 **Frontend**: Criação de interfaces performáticas e responsivas utilizando **Next.js** e **React**.
+Construo software priorizando a manutenibilidade a longo prazo, qualidade de código impecável e alinhamento direto com os objetivos estratégicos de negócio.
+
+- 🏗️ **Arquitetura de Software**: Especialista no design de sistemas distribuídos utilizando **Microserviços, Clean Architecture, Ports & Adapters (Hexagonal)** e princípios de **Domain-Driven Design (DDD)**.
+- ⚙️ **Engenharia de Backend**: Desenvolvimento e orquestração de APIs de alta performance com **NestJS (TypeScript)**, **FastAPI (Python)** e **Java/Kotlin**, assegurando alta disponibilidade (High Availability) e integração resiliente.
+- 🏥 **Domain Expertise (Healthcare)**: Especializado na superação de desafios técnicos no setor de saúde (ex: plataformas de gestão clínica, agendamentos distribuídos e sistemas de prontuários eletrônicos interconectados).
+- 🎨 **Engenharia de Frontend**: Arquitetura de interfaces de usuário escaláveis e de alta reatividade, focando na excelência da experiência do usuário (UX) através de todo o ecossistema **Next.js** e **React**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Stack Principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -42,12 +49,11 @@ Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistema
 
 ---
 
-### 🧠 Competências & Metodologias
+### 🧠 Core Competencies & Best Practices
 
-- **Arquitetura**: Clean Architecture, Microserviços, Design Patterns (SOLID, GOF).
-- **Metodologias**: Agile (Scrum/Kanban), Test Driven Development (TDD).
-- **DevOps**: CI/CD (GitHub Actions), Docker, AWS/Cloud Basics.
-- **Banco de Dados**: Modelagem Relacional, Otimização de Queries, PostgreSQL.
+- **Engenharia & Design**: Design Patterns (GoF), Princípios OOD/SOLID, Arquitetura Orientada a Eventos (EDA) e API Design Avançado (RESTful, Integrações Assíncronas).
+- **Processos & Qualidade**: Test-Driven Development (TDD), Behavior-Driven Development (BDD), Cultura DevOps, Metodologias Ágeis e Revisão rigorosa de Código.
+- **Ecossistema Infra/Banco**: Containers (Docker), Pipelines de Integração e Deploy Contínuos (GitHub Actions), Modelagem de Dados de Alta Complexidade e Otimização de Queries Relacionais.
 
 ---
 
