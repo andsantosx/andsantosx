@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andsantosx/andsantosx/main/github_banner_andsantosx_1774638998707.png" width="100%" alt="Banner Anderson Santos" />
+  <img src="./banner.png" width="100%" alt="Banner Anderson Santos" />
 
   <h1>🚀 Anderson Santos</h1>
   <h3>Software Engineering | Full Stack Developer</h3>
@@ -23,7 +23,6 @@ Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistema
 - 🏥 **Especialista em Healthcare**: Desenvolvimento de sistemas de gestão clínica, agendamentos inteligentes e prontuários eletrônicos escaláveis.
 - 🏗️ **Arquitetura & Backend**: Domínio em **NestJS**, **FastAPI** e **Microserviços**, garantindo alta disponibilidade e segurança de dados.
 - 🎨 **Frontend**: Criação de interfaces performáticas e responsivas utilizando **Next.js** e **React**.
-- 🌍 Localizado em: **Criciúma, SC - Brasil**
 
 ---
 
@@ -56,8 +55,8 @@ Como **Engenheiro de Software Full Stack**, sou apaixonado por construir sistema
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas de Anderson" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas de Anderson" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=nord&hide_border=true&hide=html,css" alt="Linguagens mais usadas" />
 </p>
 
 ---
