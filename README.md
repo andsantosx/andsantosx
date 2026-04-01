@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.gif" width="100%" alt="Banner Anderson Santos" />
 
-  <h3>Software Engineer | Solutions Architect</h3>
+  <h3>Software Engineer</h3>
 
   <p align="center">
     Projetando e desenvolvendo ecossistemas de software robustos, escaláveis e de alta performance.<br/>Transformando regras de negócio complexas em soluções tecnológicas de alto impacto.
@@ -21,11 +21,11 @@
 
 ### 👨‍💻 Perfil Profissional
 
-**Engenheiro de Software e Arquiteto de Soluções** com profunda expertise no ciclo completo de engenharia e ciclo de vida de aplicações. Possuo sólida experiência no rigoroso setor de **Saúde Digital (Healthcare Tech)**, com histórico comprovado na idealização e sustentação de sistemas críticos que demandam alta consistência de dados, tolerância a falhas e extrema segurança operacional.
+**Engenheiro de Software** com profunda expertise no ciclo completo de engenharia e ciclo de vida de aplicações. Possuo sólida experiência no rigoroso setor de **Saúde Digital (Healthcare Tech)**, com histórico comprovado na idealização e sustentação de sistemas críticos que demandam alta consistência de dados, tolerância a falhas e extrema segurança operacional.
 
-Construo software priorizando a manutenibilidade a longo prazo, qualidade de código impecável e alinhamento direto com os objetivos estratégicos de negócio.
+Construo software priorizando a manutenibilidade a longo prazo, qualidade de código e alinhamento direto com os objetivos estratégicos de negócio.
 
-- 🏗️ **Arquitetura de Software**: Especialista no design de sistemas distribuídos utilizando **Microserviços, Clean Architecture, Ports & Adapters (Hexagonal)** e princípios de **Domain-Driven Design (DDD)**.
+- 🏗️ **Arquitetura de Software**: Especialista no design de sistemas distribuídos utilizando **Clean Architecture, Ports & Adapters (Hexagonal)** e princípios de **Domain-Driven Design (DDD)**.
 - ⚙️ **Engenharia de Backend**: Desenvolvimento e orquestração de APIs de alta performance com **NestJS (TypeScript)**, **FastAPI (Python)** e **Java/Kotlin**, assegurando alta disponibilidade (High Availability) e integração resiliente.
 - 🏥 **Domain Expertise (Healthcare)**: Especializado na superação de desafios técnicos no setor de saúde (ex: plataformas de gestão clínica, agendamentos distribuídos e sistemas de prontuários eletrônicos interconectados).
 - 🎨 **Engenharia de Frontend**: Arquitetura de interfaces de usuário escaláveis e de alta reatividade, focando na excelência da experiência do usuário (UX) através de todo o ecossistema **Next.js** e **React**.
