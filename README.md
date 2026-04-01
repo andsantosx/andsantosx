@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./banner.gif" width="100%" alt="Banner Anderson Santos" />
 
-  <h3>Software Engineer</h3>
-
   <p align="center">
     Projetando e desenvolvendo ecossistemas de software robustos, escaláveis e de alta performance.<br/>Transformando regras de negócio complexas em soluções tecnológicas de alto impacto.
   </p>
