@@ -14,16 +14,16 @@
 
 ---
 
-### 👨‍💻 Professional Profile
+### Professional Profile
 
 Software Architecture enthusiast. I develop robust and scalable systems using software engineering best practices, with a strong emphasis on performance, security, and technical excellence standards.
 
-- 🏗️ **Architecture & Design**: Specialized in designing modular applications using **Clean Architecture**, **Domain-Driven Design (DDD)**, and integrating patterns like **Mappers**, **Services**, and **Modules**.
-- ⚙️ **Backend Engineering**: Experience in building high-performance APIs and system integration.
+- **Architecture & Design**: Specialized in designing modular applications using **Clean Architecture**, **Domain-Driven Design (DDD)**, and integrating patterns like **Mappers**, **Services**, and **Modules**.
+- **Backend Engineering**: Experience in building high-performance APIs and system integration.
 
 ---
 
-### 🛠️ Technologies & Core Stack
+### Technologies & Core Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -41,7 +41,7 @@ Software Architecture enthusiast. I develop robust and scalable systems using so
 
 ---
 
-### 🧠 Core Competencies & Best Practices
+### Core Competencies & Best Practices
 
 - **API Design & Patterns**: Advanced experience with Design Patterns (GoF) and Event-Driven Architectures.
 - **Infrastructure & Security**: Container orchestration with **Docker** and secure environment management for **SQL Server**.
@@ -49,7 +49,7 @@ Software Architecture enthusiast. I develop robust and scalable systems using so
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://andsantosxx.vercel.app/api?username=andsantosx&show_icons=true&theme=nord&hide_border=true&count_private=true&v=1" alt="Estatísticas de Anderson" />
@@ -58,8 +58,8 @@ Software Architecture enthusiast. I develop robust and scalable systems using so
 
 ---
 
-### 🌟 Project Highlights
+### Project Highlights
 
-- ⚡ **[order-api](https://github.com/andsantosx/order-api)**: Robust API focused on scalability and design patterns.
-- ⚙️ **[fast-api](https://github.com/andsantosx/fast-api)**: Asynchronous API structure designed for maximum performance.
-- 📦 **[spring-boot-inventory-management](https://github.com/andsantosx/spring-boot-inventory-management)**: Inventory management system with a focus on resilience.
+- **[order-api](https://github.com/andsantosx/order-api)**: Robust API focused on scalability and design patterns.
+- **[fast-api](https://github.com/andsantosx/fast-api)**: Asynchronous API structure designed for maximum performance.
+- **[spring-boot-inventory-management](https://github.com/andsantosx/spring-boot-inventory-management)**: Inventory management system with a focus on resilience.
