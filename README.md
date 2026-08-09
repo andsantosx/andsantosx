@@ -104,6 +104,10 @@
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AMAZON%20AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 <p align="center">
