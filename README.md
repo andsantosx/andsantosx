@@ -96,6 +96,9 @@
   <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMAZON%20AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
@@ -108,7 +111,7 @@
 
 <p>
   Sigo aprimorando minhas habilidades de <strong>Software Architecture</strong> e testando ideias nos repositórios acima. 
-  Se algo aqui te parecer útil ou quiser sugerir alguma melhoria, sinta-se à vontade para interagir com o meu código ou mandar uma mensagem no meu <a href="https://www.linkedin.com/in/andsantoss">LinkedIn</a>!
+  Se algo aqui te parecer útil ou quiser sugerir alguma melhoria, sinta-se à vontade para interagir com o meu código ou mandar uma mensagem no meu <a href="https://www.linkedin.com/in/andsantoss"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; height: 22px;" /></a>!
 </p>
 
 <p align="center">
