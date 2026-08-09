@@ -16,11 +16,22 @@ jobs:
           # Usa o token nativo das actions (não precisa configurar secret)
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Configurações básicas
+          # Configurações básicas (Removidas seções poluídas)
           user: andsantosx
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: America/Sao_Paulo
+          config_transparent: yes
+          
+          # Plugin Isocalendar (Calendário 3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_main: yes
+          
+          # Plugin de Linhas de Código (Produtividade)
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
           
           # Linguagens mais usadas
           plugin_languages: yes
@@ -31,3 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          
+          # Ordem de exibição dos painéis
+          config_order: base.header, isocalendar, languages, lines, base.repositories
