@@ -53,7 +53,8 @@
   </a>
 </p>
 <p>
-  API robusta focada em escalabilidade e design patterns, aplicando os conceitos de Clean Architecture.
+  <strong>TypeScript | Express | TypeORM | Zod | Tsyringe</strong><br/>
+  Design voltado para alta escalabilidade e isolamento de domínio utilizando <strong>Clean Architecture</strong> e <strong>SOLID</strong>. O projeto implementa Injeção de Dependências (DI) e validação estrita de schemas para garantir a integridade da camada de regras de negócio.
 </p>
 
 <br/>
@@ -64,7 +65,8 @@
   </a>
 </p>
 <p>
-  Estrutura assíncrona focada em extrair a máxima performance de requisições web, utilizando Python.
+  <strong>Python | FastAPI | SQLAlchemy | Alembic | Pytest</strong><br/>
+  Arquitetura focada em concorrência assíncrona (AsyncIO) para maximizar o <em>throughput</em> de requisições web. Utiliza ORM robusto para persistência e suíte de testes de integração ponta a ponta.
 </p>
 
 <br/>
@@ -75,7 +77,8 @@
   </a>
 </p>
 <p>
-  Sistema de gerenciamento de inventário com foco em resiliência e integração robusta de sistemas corporativos.
+  <strong>Java 17 | Spring Boot 3 | Spring Data JPA | MapStruct | Spring Security</strong><br/>
+  Sistema de gerenciamento de inventário seguindo padrões corporativos (<em>Enterprise Java</em>). Conta com mapeamento de DTOs abstraído, autenticação resiliente e APIs perfeitamente documentadas com OpenAPI/Swagger.
 </p>
 
 <br/>
