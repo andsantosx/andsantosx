@@ -36,10 +36,10 @@
 <img align="right" src="assets/magnifier.png" alt="Ilustração em halftone de uma mão segurando uma lupa" width="180" style="margin-left: 20px; margin-bottom: 8px;" />
 
 <ul>
-  <li>Projetar aplicações modulares utilizando padrões como <strong>Mappers</strong>, <strong>Services</strong> e <strong>Modules</strong>.</li>
-  <li>Construir e integrar APIs escaláveis com <strong>NestJS</strong>, <strong>Python/FastAPI</strong> e <strong>Java</strong>.</li>
-  <li>Elevar a qualidade com <strong>Test-Driven Development (TDD/Jest)</strong> e pipelines automatizados (<strong>GitHub Actions</strong>).</li>
-  <li>Orquestração e segurança na infraestrutura (<strong>Docker</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>).</li>
+  <li><strong>Arquitetura de Software:</strong> Modelagem de domínios complexos (DDD) e aplicação rigorosa de padrões como Clean Architecture e SOLID.</li>
+  <li><strong>Engenharia Backend de Alta Performance:</strong> Construção de APIs assíncronas e ecossistemas de microsserviços escaláveis com <strong>Java</strong>, <strong>NestJS</strong> e <strong>Python/FastAPI</strong>.</li>
+  <li><strong>Cloud & DevOps (GCP):</strong> Orquestração de workloads (<strong>Cloud Run</strong>, <strong>Docker</strong>) e estruturação de esteiras automatizadas de CI/CD (<strong>GitHub Actions</strong>, <strong>Cloud Build</strong>).</li>
+  <li><strong>Qualidade e Persistência:</strong> Excelência técnica através de testes automatizados (TDD) e modelagem avançada de dados transacionais (<strong>PostgreSQL</strong>, <strong>SQL Server</strong>).</li>
 </ul>
 
 <br clear="both"/>
