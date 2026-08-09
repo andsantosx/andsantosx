@@ -37,7 +37,7 @@
 
 <ul>
   <li>Projetar aplicações modulares utilizando padrões como <strong>Mappers</strong>, <strong>Services</strong> e <strong>Modules</strong>.</li>
-  <li>Construir e integrar APIs escaláveis com <strong>NestJS</strong>, <strong>Python/FastAPI</strong>, <strong>Java</strong> e <strong>Kotlin</strong>.</li>
+  <li>Construir e integrar APIs escaláveis com <strong>NestJS</strong>, <strong>Python/FastAPI</strong> e <strong>Java</strong>.</li>
   <li>Elevar a qualidade com <strong>Test-Driven Development (TDD/Jest)</strong> e pipelines automatizados (<strong>GitHub Actions</strong>).</li>
   <li>Orquestração e segurança na infraestrutura (<strong>Docker</strong>, <strong>SQL Server</strong>, <strong>PostgreSQL</strong>).</li>
 </ul>
@@ -84,14 +84,14 @@
 <hr/>
 
 <p>
-  Uso <strong>Java</strong> e <strong>Kotlin</strong> para sistemas robustos e back-end corporativo, <strong>Python</strong> e <strong>FastAPI</strong> quando o foco é performance assíncrona, e <strong>NestJS</strong> / <strong>Node.js</strong> para serviços escaláveis. 
+  Uso <strong>Java</strong> para sistemas robustos e back-end corporativo, <strong>Python</strong> e <strong>FastAPI</strong> quando o foco é performance assíncrona, e <strong>NestJS</strong> / <strong>Node.js</strong> para serviços escaláveis. 
   <strong>Docker</strong> como base para orquestração, garantindo que o ambiente de produção seja idêntico em qualquer lugar. 
   No banco de dados: <strong>PostgreSQL</strong> ou <strong>SQL Server</strong> — o que importa é modelar bem o domínio e assegurar a integridade.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
+
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
