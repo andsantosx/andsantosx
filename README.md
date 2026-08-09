@@ -111,7 +111,8 @@
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Estatísticas de Anderson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andsantosx&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=555555&bg_color=00000000" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000" alt="Linguagens mais usadas" />
 </p>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Aprendizado e contato</h2>
