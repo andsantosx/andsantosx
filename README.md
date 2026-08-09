@@ -87,9 +87,9 @@
 <hr/>
 
 <p>
-  Uso <strong>Java</strong> para sistemas robustos e back-end corporativo, <strong>Python</strong> e <strong>FastAPI</strong> quando o foco é performance assíncrona, e <strong>NestJS</strong> / <strong>Node.js</strong> para serviços escaláveis. 
-  <strong>Docker</strong> como base para orquestração, garantindo que o ambiente de produção seja idêntico em qualquer lugar. 
-  No banco de dados: <strong>PostgreSQL</strong> ou <strong>SQL Server</strong> — o que importa é modelar bem o domínio e assegurar a integridade.
+  Desenho e implemento <strong>arquiteturas resilientes</strong> utilizando <strong>Java</strong> para ecossistemas corporativos de missão crítica. Adoto <strong>Python</strong> e <strong>FastAPI</strong> na modelagem de microsserviços focados em alta concorrência e <i>throughput</i> assíncrono, além de <strong>Node.js / NestJS</strong> para a construção de serviços modulares e altamente escaláveis. 
+  Toda a infraestrutura é <i>container-first</i> via <strong>Docker</strong>, visando orquestração limpa e paridade total entre ambientes. 
+  Na camada de persistência de dados, utilizo <strong>PostgreSQL</strong> e <strong>SQL Server</strong> aplicando estritamente os conceitos de modelagem de domínio (DDD), normalização estrutural e integridade transacional (ACID).
 </p>
 
 <p align="center">
