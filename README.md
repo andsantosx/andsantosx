@@ -92,6 +92,10 @@
   Na camada de persistência de dados, utilizo <strong>PostgreSQL</strong> e <strong>SQL Server</strong> aplicando estritamente os conceitos de modelagem de domínio (DDD), normalização estrutural e integridade transacional (ACID).
 </p>
 
+<p>
+  Possuo sólida experiência no ecossistema <strong>Google Cloud Platform (GCP)</strong>, atuando ativamente na arquitetura, infraestrutura e modernização de serviços críticos e de alto desempenho. Sou especialista no desenho, implementação e migração de sistemas monolíticos para <strong>arquiteturas de microsserviços</strong> escaláveis e de alta disponibilidade. Meu domínio técnico abrange o provisionamento e operação de workloads serverless e baseados em contêineres (<strong>Cloud Run</strong>), automação contínua de deploys resilientes (<strong>Cloud Build</strong> e <strong>Triggers</strong>), além de governança de segurança corporativa rigorosa (<strong>Secret Manager</strong>). Complementando o stack, possuo forte vivência em engenharia de redes (<strong>VPC Network</strong>) e orquestração de recursos de armazenamento em larga escala (<strong>Cloud Storage</strong>), sempre com foco na observabilidade, segurança e otimização de custos em ambientes de missão crítica.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
