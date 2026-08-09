@@ -23,9 +23,5 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_transparent: yes
           
-          # Plugin Isocalendar (Calendário 3D)
-          plugin_isocalendar: yes
-          plugin_isocalendar_main: yes
-          
           # Ordem de exibição dos painéis
-          config_order: base.header, isocalendar
+          config_order: base.header
