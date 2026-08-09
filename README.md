@@ -117,7 +117,7 @@
 
 <p>
   Sigo aprimorando minhas habilidades de <strong>Software Architecture</strong> e testando ideias nos repositórios acima. 
-  Se algo aqui te parecer útil ou quiser sugerir alguma melhoria, sinta-se à vontade para interagir com o meu código ou mandar uma mensagem no meu <a href="https://www.linkedin.com/in/andsantoss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 2px;" />LinkedIn</a>!
+  Se algo aqui te parecer útil ou quiser sugerir alguma melhoria, sinta-se à vontade para interagir com o meu código ou mandar uma mensagem no meu <a href="https://www.linkedin.com/in/andsantoss">LinkedIn</a>!
 </p>
 
 <p align="center">
