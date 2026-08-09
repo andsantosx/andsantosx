@@ -121,5 +121,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=andsantosx&theme=react-dark&hide_border=true&bg_color=00000000" alt="Activity Graph" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=andsantosx&theme=high-contrast&hide_border=true&bg_color=00000000" alt="Activity Graph" /></a>
 </p>
