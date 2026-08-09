@@ -102,8 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://andsantosxx.vercel.app/api?username=andsantosx&show_icons=true&theme=transparent&hide_border=true&count_private=true&v=1" alt="Estatísticas de Anderson" />
-  <img src="https://andsantosxx.vercel.app/api/top-langs/?username=andsantosx&layout=compact&theme=transparent&hide_border=true&hide=html,css&count_private=true&v=1" alt="Linguagens mais usadas" />
+  <img src="github-metrics.svg" alt="Estatísticas de Anderson" />
 </p>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Aprendizado e contato</h2>
