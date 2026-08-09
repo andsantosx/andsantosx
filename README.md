@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" alt="Status" />
+
   <img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ARCHITECT-000000?style=for-the-badge&labelColor=555555&logo=codeforces&logoColor=white" alt="Role" />
   <img src="https://img.shields.io/badge/LOC-BRAZIL-000000?style=for-the-badge&labelColor=555555" alt="Localização" />
   <img src="https://img.shields.io/badge/STACK-BACKEND-000000?style=for-the-badge&labelColor=555555" alt="Backend" />
